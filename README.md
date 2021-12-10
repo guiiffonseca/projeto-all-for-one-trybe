@@ -41,10 +41,6 @@ O Projeto é dividido em Desafios, onde cada aqruivo desafio(n) representa um de
 
 ---
 
-# Requisitos do projeto
-
-Monte queries para encontrar as informações esperadas pelos desafios:
-
 ## Lista de Desafios
 
 #### 1 - Exiba apenas os nomes do produtos na tabela `products`.
