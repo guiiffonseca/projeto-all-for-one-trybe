@@ -27,7 +27,7 @@ Projeto inicial do módulo de Back-End do curso de Desenvolvimento Web da Trybe.
 
  Será praticado todos os conceitos de SQL, usando o Banco de Dados `Northwind`.
 
-O Projeto é dividido em Desafios, onde cada aqruvi desafio(n) representa um desafio descrito aqui
+O Projeto é dividido em Desafios, onde cada aqruivo desafio(n) representa um desafio descrito aqui
 
 ---
 
